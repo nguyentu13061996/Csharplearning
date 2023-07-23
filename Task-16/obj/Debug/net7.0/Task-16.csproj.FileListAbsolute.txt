@@ -1,0 +1,15 @@
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/bin/Debug/net7.0/Task-16
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/bin/Debug/net7.0/Task-16.deps.json
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/bin/Debug/net7.0/Task-16.runtimeconfig.json
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/bin/Debug/net7.0/Task-16.dll
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/bin/Debug/net7.0/Task-16.pdb
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/Task-16.csproj.AssemblyReference.cache
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/Task-16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/Task-16.AssemblyInfoInputs.cache
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/Task-16.AssemblyInfo.cs
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/Task-16.csproj.CoreCompileInputs.cache
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/Task-16.dll
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/refint/Task-16.dll
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/Task-16.pdb
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/Task-16.genruntimeconfig.cache
+/Users/tussmacbookpro/GitHub/Csharplearning/Task-16/obj/Debug/net7.0/ref/Task-16.dll

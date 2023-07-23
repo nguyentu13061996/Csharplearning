@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{1DE0DE80-78FE-4D5F-A0DC-0367AAFB7040}|Default">
+  <MonoDevelop.Ide.ItemProperties.Csharplearning PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharplearning" expanded="True">
+            <Node name="Csharplearning" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
