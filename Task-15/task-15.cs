@@ -3,7 +3,7 @@
         static void Main(string[] args) {
             int n = 12;
             double b = 0;
-            for (int i = 0;i<=n;i++)
+            for (int i = 1;i<=n;i++)
             {
                 b = Math.Sqrt(i + Math.Sqrt(b));
             }
